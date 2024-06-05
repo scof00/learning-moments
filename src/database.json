@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "seth1",
+            "email": "gmail@gmail.com"
+        },
+        {
+            "id": 2,
+            "username": "Altoid",
+            "email": "email@email.com"
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "userId": 1,
+            "url": "https://www.npr.org/2024/04/24/1246807622/runaway-horses-central-london",
+            "title": "Horses Run Rampant Through London",
+            "synopsis": "5 military horses escaped last week and ere seen running through London.",
+            "timestamp": "06/04/2024"
+        }
+    ],
+    "events":[
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Mary's Birthday",
+            "date": "06/24/2024",
+            "location": "Red Lobster"
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "userId": 1,
+            "task": "Takeout Trash",
+            "completed": false
+        }
+    ],
+    "messages": [
+        {
+            "id": 1,
+            "userId": 1,
+            "text": "Hello All! So happy to be here!"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "userId": 1,
+            "url": "https://static.miraheze.org/greatcharacterswiki/a/a3/Farquaad.png",
+            "caption": "He's literally so dreamy <3"
+        }
+    ],
+    "friends": [
+        {
+            "id": 1,
+            "userId": 2,
+            "loggedInUserId": 1
+        }
+    ]
+
+}

@@ -1,0 +1,20 @@
+.filters{
+    font-family: "Quicksand", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5CA7FF;
+    height: 50px;
+}
+
+.post-search{
+    font-family: "Quicksand", sans-serif;
+    margin-left: 5px;
+    height: 25%;
+}
+
+.post-filter{
+    font-family: "Quicksand", sans-serif;
+    height: 50%;
+    border-radius: 5px;
+}

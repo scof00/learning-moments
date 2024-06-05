@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.user-info{
+    margin: 5px;
+}
+
+.user{
+    border: 1px solid black;
+    border-radius: 10px;
+}
